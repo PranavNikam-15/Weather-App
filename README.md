@@ -42,8 +42,12 @@ This project helped me understand:
 
 ### Frontend
 
-- JavaScript (AI-generated for integration testing)
+- JavaScript
+- React (Vite + React)
 - Fetch API
+
+> ⚠ Note: The frontend interface (React + Vite) was generated using AI for testing and interaction purposes.  
+> The main learning and implementation effort is fully on the backend.
 
 ---
 
@@ -82,7 +86,7 @@ weather.api.forecast.url=https://api.weatherapi.com/v1/forecast.json?
 
 ```bash
 git clone https://github.com/pranavnikam-15/weather-app.git
-cd Weather_App
+cd Weather-App
 ```
 
 
@@ -145,15 +149,11 @@ http://localhost:5173
 
 ### 🔹 Current Weather (Without Forecast)
 
-Displays real-time weather data for the searched city.
-
 ![Current Weather](screenshots/img1.png)
 
 ---
 
 ### 🔹 Weather Forecast (With Forecast Enabled)
-
-Displays multi-day forecast along with temperature and condition summary.
 
 ![Weather Forecast](screenshots/img2.png)
 
