@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
+
 # 🌦 Weather App – Java Backend Learning Project
 
 This project is built as part of my **Java Backend Development learning journey**.
@@ -160,5 +162,12 @@ http://localhost:5173
 ---
 
 
-## 👨‍💻 Author
+## 👨‍💻 Author 
+
 Pranav Nikam
+
+## 🌐 Live Demo
+
+Check out the live application here : 
+
+[🌦 Weather App Live](https://weather-app-w0t3.onrender.com)
